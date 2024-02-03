@@ -42,9 +42,8 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/web-projects)
+[![GoT-IpScraper](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-IpScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/itasks)
+[![GoT-StatusChanger](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-StatusChanger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/urfolio)
 [![BB-0x82 Readme](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=BB0x82&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/BB0x82)
 
 <p align="left">
