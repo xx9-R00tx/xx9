@@ -45,7 +45,7 @@
 ## Top Open Source -
 [![GoT-IpScraper](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-IpScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/GoT-IpScraper)
 [![GoT-StatusChanger](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-StatusChanger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/GoT-StatusChanger)
-[![Nitro-Promobot](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-StatusChanger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/Nitro-Promobot)
+[![Nitro-Promobot](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=Nitro-Promobot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/Nitro-Promobot)
 
 <p align="left">
   <a href="https://github.com/BB0x82?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
