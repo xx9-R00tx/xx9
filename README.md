@@ -7,13 +7,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/BB0x82"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/xx9-r00tx"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=BB0x82">
-  <img align="right" src="https://komarev.com/ghpvc/?username=BB0x82&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=xx9-r00tx">
+  <img align="right" src="https://komarev.com/ghpvc/?username=xx9-r00tx&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 ## Use To Code
@@ -43,12 +43,12 @@
 <br/>
 
 ## Top Open Source -
-[![GoT-IpScraper](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-IpScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/GoT-IpScraper)
-[![GoT-StatusChanger](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=GoT-StatusChanger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/GoT-StatusChanger)
-[![Nitro-Promobot](https://github-readme-stats.vercel.app/api/pin/?username=BB0x82&repo=Nitro-Promobot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/BB0x82/Nitro-Promobot)
+[![GoT-IpScraper](https://github-readme-stats.vercel.app/api/pin/?username=xx9-r00tx&repo=GoT-IpScraper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xx9-r00tx/GoT-IpScraper)
+[![GoT-StatusChanger](https://github-readme-stats.vercel.app/api/pin/?username=xx9-r00tx&repo=GoT-StatusChanger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xx9-r00tx/GoT-StatusChanger)
+[![Nitro-Promobot](https://github-readme-stats.vercel.app/api/pin/?username=xx9-r00tx&repo=Nitro-Promobot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xx9-r00tx/Nitro-Promobot)
 
 <p align="left">
-  <a href="https://github.com/BB0x82?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/xx9-r00tx?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -56,22 +56,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/BB0x82">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BB0x82&theme=radical&border=7F3FBF&background=0D1117" alt="BB-0x82's GitHub streak"/>
+  <a href="https://github.com/xx9-r00tx">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xx9-r00tx&theme=radical&border=7F3FBF&background=0D1117" alt="BB-0x82's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BB0x82">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BB0x82&theme=radical" alt="BB-0x82's GitHub Contribution"/>
+  <a href="https://github.com/xx9-r00tx">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xx9-r00tx&theme=radical" alt="BB-0x82's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/BB0x82"><img alt="BB-0x82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=BB0x82&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/BB0x82"><img alt="BB-0x82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=BB0x82&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/xx9-r00tx"><img alt="BB-0x82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=xx9-r00tx&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/xx9-r00tx"><img alt="BB-0x82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xx9-r00tx&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![BB-0x82's Graph](https://github-readme-activity-graph.vercel.app/graph?username=BB0x82&custom_title=BB-0x82's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![BB-0x82's Graph](https://github-readme-activity-graph.vercel.app/graph?username=xx9-r00tx&custom_title=BB-0x82's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
